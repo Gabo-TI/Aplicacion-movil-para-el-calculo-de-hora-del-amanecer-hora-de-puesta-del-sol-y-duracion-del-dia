@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TuAplicacion</string>
+    <!-- Definiciones de Arrays para los Spinners -->
+    <string-array name="hemisphere_ns_options">
+        <item>N</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="hemisphere_ew_options">
+        <item>E</item>
+        <item>W</item>
+    </string-array>
+
+    <string-array name="time_zone_options">
+
+    </string-array>
+
+
+    <string-array name="daylight_savings_options">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+</resources>
